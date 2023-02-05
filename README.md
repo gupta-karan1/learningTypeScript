@@ -60,4 +60,3 @@ PS C:\WINDOWS\system32>`
 5. You will get an error if you try to do any of the above
 6. You get suggestions for methods and properties if you mistype them
 7. You get suggestions for variables and functions if you mistype them
-8.
