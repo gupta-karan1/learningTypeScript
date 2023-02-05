@@ -60,3 +60,7 @@ PS C:\WINDOWS\system32>`
 5. You will get an error if you try to do any of the above
 6. You get suggestions for methods and properties if you mistype them
 7. You get suggestions for variables and functions if you mistype them
+
+In typescript, you don't have int or float, there's only number.
+
+As a good practice, you don't need to specify the type of all the variable if you initialize it.
