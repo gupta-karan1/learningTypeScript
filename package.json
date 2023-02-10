@@ -1,0 +1,22 @@
+{
+  "name": "learningtypescript",
+  "version": "1.0.0",
+  "description": "<!-- how to get h1 in readme.md? -->\r # Introduction to the course\r ## What is this course about?\r Typescript Fundamentals\r Typescript allows for static checking.\r Typescript is a superset of Javascript.\r Typescript analyzes your code and gives you errors before you run your code.\r Typescript is a development tool.\r Typescript still needs Javascript to run.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gupta-karan1/learningTypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gupta-karan1/learningTypeScript/issues"
+  },
+  "homepage": "https://github.com/gupta-karan1/learningTypeScript#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
